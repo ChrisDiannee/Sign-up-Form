@@ -1,0 +1,23 @@
+{
+  "name": "Sign-up-Form",
+  "version": "1.0.0",
+  "description": "Create() and read()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisDiannee/Sign-up-Form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisDiannee/Sign-up-Form/issues"
+  },
+  "homepage": "https://github.com/ChrisDiannee/Sign-up-Form#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
